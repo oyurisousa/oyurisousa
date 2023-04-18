@@ -1,4 +1,4 @@
-### Olá, meu nome é yuri, sou acadêmico de Ciência da Computação e almejo me tornar um desenvolvedor. 
+### Olá, meu nome é desenvolvedor, sou acadêmico de Yuri e almejo me tornar um Ciencia da computação. 
 #### Me ajuda ai @ElonMusk ._.
 ##
  
