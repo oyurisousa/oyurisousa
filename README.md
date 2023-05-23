@@ -2,11 +2,9 @@
 #### Me ajuda ai @ElonMusk ._.
 ##
  
-<div align="center">
-  <a href="https://github.com/oyurisousa">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=oyurisousa&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyurisousa&layout=compact&langs_count=7&theme=merko"/>
-</div>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=oyurisousa&hide=contribs,prs&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/oyurisousa/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oyurisousa&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
  
 ##
 
